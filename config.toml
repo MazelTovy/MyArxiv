@@ -14,6 +14,16 @@ title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 150
+category = "eess.IV"
+title = "Image and Video Processing"
+
+[[sources]]
+limit = 150
+category = "cs.GR"
+title = "Graphics"
+
+[[sources]]
+limit = 150
 category = "eess.SY"
 title = "Systems and Control"
 
@@ -24,8 +34,8 @@ title = "Robotics"
 
 [[sources]]
 limit = 150
-category = "cs.GR"
-title = "Graphics"
+category = "eess.SP"
+title = "Signal Processing"
 
 [[sources]]
 limit = 150
