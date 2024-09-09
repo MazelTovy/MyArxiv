@@ -72,6 +72,11 @@ limit = 150
 category = "math.AG"
 title = "Algebraic Geometry"
 
+[[sources]]
+limit = 150
+category = "math.DS"
+title = "Dynamical Systems"
+
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
