@@ -24,6 +24,11 @@ title = "Graphics"
 
 [[sources]]
 limit = 150
+category = "cs.HC"
+title = "Human-Computer Interaction"
+
+[[sources]]
+limit = 150
 category = "eess.SY"
 title = "Systems and Control"
 
@@ -66,16 +71,6 @@ title = "Multimedia"
 limit = 150
 category = "nlin.AO"
 title = "Adaptation and Self-Organizing Systems"
-
-[[sources]]
-limit = 150
-category = "math.AG"
-title = "Algebraic Geometry"
-
-[[sources]]
-limit = 150
-category = "math.DS"
-title = "Dynamical Systems"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
